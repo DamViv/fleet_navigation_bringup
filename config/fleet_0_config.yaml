@@ -1,0 +1,11 @@
+pc_topic: /fleet_0/os_lidar/points
+imu_in: /fleet_0/os_lidar/imu
+imu_out: /fleet_0/imu/data_filtered
+
+# Robot properties
+security_distance: 0.6
+max_slope: 0.5
+ground_clearance: 0.25
+robot_height: 0.5
+robot_width: 0.4
+robot_length: 0.6

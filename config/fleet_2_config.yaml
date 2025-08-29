@@ -1,0 +1,11 @@
+pc_topic: /fleet_2/camera/points
+imu_in: /fleet_2/imu
+imu_out: /fleet_2/imu/data_filtered
+
+# Robot properties
+security_distance: 0.6
+max_slope: 0.5
+ground_clearance: 0.25
+robot_height: 0.
+robot_width: 0.2
+robot_length: 0.2
